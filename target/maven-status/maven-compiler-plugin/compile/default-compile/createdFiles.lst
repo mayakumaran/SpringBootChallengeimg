@@ -1,0 +1,6 @@
+com\lxisoft\repo\ChallengeRepo.class
+com\lxisoft\controller\ChallengeController.class
+com\lxisoft\configuration\SecurityConfiguration.class
+com\lxisoft\applicants\Applicants.class
+com\lxisoft\configuration\WebMvcConfig.class
+com\lxisoft\SpringBootChallengeApplication.class
